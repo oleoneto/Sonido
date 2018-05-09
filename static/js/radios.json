@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Rádio Luzeiros",
+        "short": "Luzeiros",
+        "slogan": "Música para a mente.",
+        "language": "Português",
+        "link": "http://s11.myradiostream.com:14574/;stream.mp3",
+        "logo": null,
+        "bitrate": null,
+        "country": "Angola"
+    },
+    {
+        "name": "Radio AdventLife",
+        "short": "AdventLife",
+        "slogan": "Connecté á la source.",
+        "language": "Français",
+        "link": "http://www.adventlife.fr/radio1.mp3",
+        "logo": null,
+        "bitrate": null,
+        "country": "France"
+    },
+    {
+        "name": "Novo Tempo",
+        "short": "NT",
+        "slogan": "A voz da esperança.",
+        "language": "Português",
+        "link": "http://stream.novotempo.com:1935/radio/smil:radionovotempo.smil/playlist.m3u8",
+        "logo": null,
+        "bitrate": null,
+        "country": "Brasil"
+    },
+    {
+        "name": "Nuevo Tiempo",
+        "short": "NT",
+        "slogan": "La voz de la esperanza.",
+        "language": "Español",
+        "link": "http://stream.novotempo.com:1935/radio/smil:radionuevotiempo.smil/playlist.m3u8",
+        "logo": null,
+        "bitrate": null,
+        "country": "Chile"
+    },
+    {
+        "name": "Rádio Clube de Sintra",
+        "short": "RCS",
+        "slogan": "Em sintonia com a vida.",
+        "language": "Português",
+        "link": "http://centova.radio.com.pt:8445/stream",
+        "logo": null,
+        "bitrate": null,
+        "country": "Portugal"
+    },
+    {
+        "name": "Brand From The Fire",
+        "short": null,
+        "slogan": "",
+        "language": "English",
+        "link": "http://91.121.78.191:8381/stream",
+        "logo": null,
+        "bitrate": null,
+        "country": "United States"
+    },
+    {
+        "name": "89.9 LightFM",
+        "short": "LightFM",
+        "slogan": "Melbourne's Positive Alternative",
+        "language": "English",
+        "link": "http://s7.viastreaming.net:8760",
+        "logo": null,
+        "bitrate": null,
+        "country": "Australia"
+    },
+    {
+        "name": "Air1",
+        "short": null,
+        "slogan": null,
+        "language": "English",
+        "link": "http://player.emfcdn.com/play/air1_itunes_high.pls",
+        "logo": null,
+        "bitrate": 128,
+        "country": null
+    },
+    {
+        "name": "K-LOVE",
+        "short": null,
+        "slogan": null,
+        "language": "English",
+        "link": "http://player.emfcdn.com/play/klove_itunes_high.pls",
+        "logo": null,
+        "bitrate": 128,
+        "country": null
+    },
+    {
+        "name": "3ABN",
+        "short": "3ABN",
+        "slogan": null,
+        "language": "English",
+        "link": "http://war.str3am.com:7180/live",
+        "logo": null,
+        "bitrate": 64,
+        "country": "United States"
+    },
+    {
+        "name": "3ABN - Latino",
+        "short": "3ABN LA",
+        "slogan": null,
+        "language": "Español/Português",
+        "link": "http://war.str3am.com:7180/Latino",
+        "logo": null,
+        "bitrate": 64,
+        "country": "United States"
+    },
+    {
+        "name": "3ABN - Russia",
+        "short": "3ABN RU",
+        "slogan": null,
+        "language": "Russian",
+        "link": "http://war.str3am.com:7180/Russia",
+        "logo": null,
+        "bitrate": 64,
+        "country": "United States"
+    },
+    {
+        "name": "Bible.is",
+        "short": null,
+        "slogan": null,
+        "language": "English",
+        "link": "http://radio.bible.is:8000/ENGWEBN2DA",
+        "logo": null,
+        "bitrate": 64,
+        "country": null
+    },
+    {
+        "name": "Bible.is",
+        "short": null,
+        "slogan": null,
+        "language": "Français",
+        "link": "http://radio.bible.is:8000/FRNPDCN2DA",
+        "logo": null,
+        "bitrate": 64,
+        "country": null
+    },
+    {
+        "name": "Bible.is",
+        "short": null,
+        "slogan": null,
+        "language": "Hebrew",
+        "link": "http://radio.bible.is:8000/HBRHMTN2DA",
+        "logo": null,
+        "bitrate": 64,
+        "country": null
+    },
+    {
+        "name": "Bible.is",
+        "short": null,
+        "slogan": null,
+        "language": "Português",
+        "link": "http://radio.bible.is:8000/PORARAN2DA",
+        "logo": null,
+        "bitrate": 64,
+        "country": null
+    }
+]
