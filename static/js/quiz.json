@@ -1,0 +1,57 @@
+[
+  {
+    "info": {
+      "author": {
+        "name": "Leo Neto",
+        "web": "https://github.com/oleoneto"
+      },
+      "contributors": [
+        {
+          "name": "M8",
+          "web": "https://github.com/m-oito"
+        },
+        {
+          "name": "M8",
+          "web": "https://github.com/m-oito"
+        }
+      ],
+      "release": "2018-06-14",
+      "lastUpdate": "2018-06-15",
+      "version": "1.0"
+    },
+    "questions": [
+      {
+        "language": "English",
+        "topics": [
+          "Famous People",
+          "Literature"
+        ],
+        "text": "I was born in 1898, in Belfast, Northern Ireland. I nicknamed myself Jack. I am a famous author. Who am I?",
+        "answer": "C.S. Lewis",
+        "options": [
+          "Charles Dickens",
+          "C.S. Lewis",
+          "J.R.R. Tolkien",
+          "William Shakespeare",
+          "John Bunyan"
+        ]
+      },
+      {
+        "language": "English",
+        "topics": [
+          "Music",
+          "Famous People"
+        ],
+        "text": "\"Ela Une Todas as Coisas\" is the title of a song by which Brazilian artist:",
+        "answer": "Jorge Vercillo",
+        "options": [
+          "Caetano Veloso",
+          "Roberto Carlos",
+          "Luan Santana",
+          "Jorge Vercillo",
+          "Lenine"
+        ]
+      }
+    ]
+  }
+]
