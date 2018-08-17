@@ -16,6 +16,13 @@
      "longDesc": "Música para a mente"
      },
      {
+      "name": "Novo Tempo",
+      "streamURL": "http://stream.novotempo.com:1935/radio/smil:radionovotempo.smil/playlist.m3u8",
+      "imageURL": "",
+      "desc": "A voz da esperança",
+      "longDesc": "A voz da esperança"
+     },
+     {
      "name": "Absolute Country Hits",
      "streamURL": "http://strm112.1.fm/acountry_mobile_mp3",
      "imageURL": "station-absolutecountry.png",
